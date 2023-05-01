@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(44, 44, 44);
+    
+  }
+  
+  h1 {
+    text-align: center;
+    color: aliceblue;
+  }
+
+  form {
+   width: 800px;
+    margin: 0 auto;
+    list-style-type: none;
+  }
+  
+  ol {
+    list-style-type: none;
+    padding: 0;
+  
+  }
+  
+  li {
+    margin-bottom: 20px;
+    
+  }
+  
+  p {
+
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  div {
+    margin-bottom: 10px;
+   
+
+  }
+  
+  input[type="radio"] {
+    margin-right: -35px;
+  }
+  
+  #quiz-results {
+    margin-top: 20px;
+    text-align: center;
+    color:aliceblue;
+    width: 400px;
+    margin: 0 auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   border-radius: 5px;
+  font-size: 30px;
+  }
+  
+  #try-again {
+    background-color: blue;
+    color: aliceblue;
+    width: 100px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    
+  }
+
+
+  legend {
+    padding: 10px;
+    font-size: 15px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+  }
+fieldset {
+    border-color: blue;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+input {
+    background-color: blue;
+    color: aliceblue;
+    width: 100px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
